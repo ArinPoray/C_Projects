@@ -1,0 +1,26 @@
+﻿Build started 12/3/2016 5:17:24 PM.
+     1>Project "c:\Users\Arin\documents\visual studio 2013\Projects\Ass03_C++_final\Ass03_C++_final\Ass03_C++_final.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ass03.cpp Ellipse.cpp GraphicElement.cpp Line.cpp Pair.cpp Rectangle.cpp VectorGraphic.cpp
+         VectorGraphic.cpp
+         Rectangle.cpp
+         Pair.cpp
+         Line.cpp
+         GraphicElement.cpp
+         Ellipse.cpp
+         ass03.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\arin\documents\visual studio 2013\Projects\Ass03_C++_final\Debug\Ass03_C++_final.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\arin\documents\visual studio 2013\Projects\Ass03_C++_final\Debug\Ass03_C++_final.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\arin\documents\visual studio 2013\Projects\Ass03_C++_final\Debug\Ass03_C++_final.lib" /MACHINE:X86 Debug\ass03.obj
+         Debug\Ellipse.obj
+         Debug\GraphicElement.obj
+         Debug\Line.obj
+         Debug\Pair.obj
+         Debug\Rectangle.obj
+         Debug\VectorGraphic.obj
+         Ass03_C++_final.vcxproj -> c:\users\arin\documents\visual studio 2013\Projects\Ass03_C++_final\Debug\Ass03_C++_final.exe
+     1>Done Building Project "c:\Users\Arin\documents\visual studio 2013\Projects\Ass03_C++_final\Ass03_C++_final\Ass03_C++_final.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.78
